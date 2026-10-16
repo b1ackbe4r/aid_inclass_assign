@@ -1,2 +1,2 @@
-# aid_inclass_assgin
+# aid_inclass_assign
 week7
